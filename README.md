@@ -18,3 +18,6 @@ And for my design, I'll be creating a desktop UI. Each day of the challenge, I'l
 ## Day 2
 ![If you're seeing this, something's gone wrong \:/](./assets/DAY-2-A.png)
 ![If you're seeing this, something's gone wrong \:/](./assets/DAY-2-B.png)
+
+## Day 3
+![If you're seeing this, something's gone wrong \:/](./assets/DAY-3.png)
