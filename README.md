@@ -4,7 +4,7 @@ I'm taking part in the [#JuxStyleChallenge](https://twitter.com/hashtag/JuxStyle
 
 - [x] Day 1 - Y2K 
 - [x] Day 2 - Glassmorphic
-- [ ] Day 3 - Gridlines
+- [x] Day 3 - Gridlines
 - [ ] Day 4 - Neobrutalist
 - [ ] Day 5 - Minimalist
 - [ ] Day 6 - Futuristic
