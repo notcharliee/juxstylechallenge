@@ -6,7 +6,7 @@ I'm taking part in the [#JuxStyleChallenge](https://twitter.com/hashtag/JuxStyle
 - [x] Day 2 - Glassmorphic
 - [x] Day 3 - Gridlines
 - [x] Day 4 - Neobrutalist
-- [ ] Day 5 - Minimalist
+- [x] Day 5 - Minimalist
 - [ ] Day 6 - Futuristic
 - [ ] Day 7 - Grainy
 
@@ -24,3 +24,6 @@ And for my design, I'll be creating a desktop UI. Each day of the challenge, I'l
 
 ## Day 4
 ![If you're seeing this, something's gone wrong \:/](./assets/DAY-4.png)
+
+## Day 5
+![If you're seeing this, something's gone wrong \:/](./assets/DAY-5.png)
